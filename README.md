@@ -56,5 +56,27 @@ Flag:JarkomIT{d34th_fr0m_th3_sky_64yKjxyPWT8YJOb6LQFMBTQq4H1Vw4NI4q1SWeWhbNT8hr5
 
 
 
+## Packet Barrage
+
+1. Apa IP Address attacker? 
+Liat source IP nya => 172.21.80.1
+
+<img width="603" alt="Screenshot 2024-09-18 at 23 59 23" src="https://github.com/user-attachments/assets/6ffff907-5d7b-4109-867f-e66f99249979">
+
+2. Berapa total brute force? Liat http stream terakhir ada di angka 1917
+
+   <img width="381" alt="Screenshot 2024-09-19 at 00 00 30" src="https://github.com/user-attachments/assets/80a2ad7a-85d5-44ac-bd3e-ce228251e207">
+
+3. Apa nama file yang didownload oleh attacker setelah berhasil login?
+Liat di stream 1918 => Albatron.txt
+
+<img width="599" alt="Screenshot 2024-09-19 at 00 01 53" src="https://github.com/user-attachments/assets/6848da73-bc47-4270-836c-85248ba5bc64">
+
+Flag : Flag: JarkomIT{th3_fly1ng_c1rcus_0f_w4r_FUPhsDiqPGkX21zYVdhl99Lhz5StDceTWEmb7HN9S2OpCcXFvq2i8ACE}
+
+
+
+
+
    
 
